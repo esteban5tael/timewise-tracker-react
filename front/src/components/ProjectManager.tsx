@@ -1,6 +1,5 @@
 import { ProjectList } from './ProjectList';
 import { Timer } from './Timer';
-import { Card, CardContent } from './ui/card';
 
 export function ProjectManager() {
   return (
