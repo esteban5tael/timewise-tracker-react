@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "id": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "name": "lavadocrm",
+      "createdAt": "2026-01-03T13:07:58.771Z"
+    }
+  ],
+  "timeLogs": [
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T13:08:01.483Z",
+      "duration": 5.018,
+      "id": "a657db2c-d5a3-4044-951a-76340b1d7c5e",
+      "endTime": "2026-01-03T13:08:06.994Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T13:08:15.058Z",
+      "duration": 238.014,
+      "id": "0a2dfe7a-a1cb-4e3f-96d7-eeefd29ef667",
+      "endTime": "2026-01-03T13:12:13.698Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T13:13:04.306Z",
+      "duration": 741.032,
+      "id": "af1fed0a-d598-47bf-b353-9f77ce50dfee",
+      "endTime": "2026-01-03T13:25:25.788Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T13:25:37.577Z",
+      "duration": 133.019,
+      "id": "f1ca1d8d-435e-494f-9285-8bb3b8265f23",
+      "endTime": "2026-01-03T13:27:50.682Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T13:27:52.864Z",
+      "duration": 1985.04,
+      "id": "09a30648-9ddd-4cfb-a388-860ebc28fe65",
+      "endTime": "2026-01-03T14:00:58.489Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T19:17:19.611Z",
+      "duration": 1.045,
+      "id": "76b2b9fc-574d-4854-b8b6-37604cc6180d",
+      "endTime": "2026-01-03T19:17:21.204Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T19:17:23.156Z",
+      "duration": 1.032,
+      "id": "ad709c14-59b9-4293-8538-a8c0226809b7",
+      "endTime": "2026-01-03T19:17:24.820Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-03T19:55:40.162Z",
+      "duration": 16513.019,
+      "id": "d5225997-ff83-4ac5-920e-0accea02df0c",
+      "endTime": "2026-01-04T00:30:53.745Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-04T00:31:02.472Z",
+      "duration": 23.022,
+      "id": "b14503b4-5772-497e-b1fd-3e3a45c227a4",
+      "endTime": "2026-01-04T00:31:25.736Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-04T23:35:31.419Z",
+      "duration": 567.033,
+      "id": "a0318500-6cd9-410b-abec-f5a69c42100a",
+      "endTime": "2026-01-04T23:44:59.272Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-05T00:11:45.930Z",
+      "duration": 1.04,
+      "id": "b02c1c73-da5f-48fd-ba99-5ae72e78a9df",
+      "endTime": "2026-01-05T00:11:47.706Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-05T00:20:03.689Z",
+      "duration": 3237.018,
+      "id": "e19a6e64-9b35-4333-9533-f8007bbbf78a",
+      "endTime": "2026-01-05T01:14:01.148Z"
+    },
+    {
+      "projectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb",
+      "startTime": "2026-01-08T02:32:22.349Z",
+      "duration": 10.023,
+      "id": "2dfd3321-f7b0-4965-8af7-878a333cc030",
+      "endTime": "2026-01-08T02:32:32.781Z"
+    }
+  ],
+  "appData": [
+    {
+      "id": "1",
+      "activeProjectId": "518ee66c-cec0-4dac-a49d-48c7889cfecb"
+    }
+  ]
+}
